@@ -1,6 +1,6 @@
 ## Here is the screenshot of Time required by both Merge Sort
 
-&emsp;&emsp;&emsp;I have used a vector of 10⁷ elements.
+&emsp;&emsp;&emsp;I have used a vector of <span>10<sup>7</sup></span> elements.
 
 
 
